@@ -1,0 +1,10 @@
+This skill, china-outbound-service-dpa-bilingual, includes material adapted from compliance-anthropic,
+originally installed from lawvable/awesome-legal-skills and identified as Apache-2.0.
+
+Modifications:
+- Adapted the workflow for Chinese outbound companies acting as service providers,
+  processors, service providers/contractors, or entrusted processors.
+- Added default facts for enterprise customer DPAs attached to service agreements.
+- Added drafting guidance for GDPR, UK GDPR, CCPA/CPRA, and PIPL scenarios.
+- Added bilingual Chinese-English drafting, Word output, formatting, comments, and
+  tracked-changes workflow guidance.
